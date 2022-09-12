@@ -9,7 +9,7 @@ An application written in Go lang that utilises postgres database which runs in 
 
 ## How to run
 
-*Run from the root directory of the projec*
+*Run from the root directory of the project*
 
 ```cmd
 go build PostgresGo
